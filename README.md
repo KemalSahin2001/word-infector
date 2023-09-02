@@ -1,2 +1,2 @@
 # word infector
- word infection using pettern and spacy
+ word infection using pettern and spacy for wordbaze
